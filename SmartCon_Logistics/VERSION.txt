@@ -1,0 +1,2 @@
+SmartCon Logistics V1029
+Correção: Camada Limpa usa NF correta preservada em CODIGOS antes do SAIDA NF com OCR incorreto.
